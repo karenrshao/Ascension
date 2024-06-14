@@ -1,0 +1,13 @@
+**/.vs
+**/.vscode/
+**/out
+**/out/*
+**/build
+**/build/*
+./Ascension-Source/ext/project-path.hpp
+Ascension-Source/ext/project-path.hpp
+/Ascension-Source/ext/project-path.hpp
+Ascension-Source/ext/project_path.hpp
+Ascension-Source/ext/project_path.hpp.in
+**/save.json
+**/respawn.json
